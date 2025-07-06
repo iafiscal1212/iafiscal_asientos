@@ -1,0 +1,9 @@
+Flask>=2.0
+# Para la lectura de PDFs (ejemplo, elegir una o varias según necesidad)
+# PyPDF2
+# pdfplumber
+# Para la lectura de imágenes (ejemplo)
+# Pillow
+# Para la lectura de Excel (ejemplo)
+# openpyxl
+# pandas
